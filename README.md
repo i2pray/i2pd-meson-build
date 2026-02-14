@@ -1,4 +1,4 @@
-# i2d-meson-build
+# i2pd-meson-build
 
 Experimental Meson build system support for i2pd 
 
